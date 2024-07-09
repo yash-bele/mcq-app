@@ -1,0 +1,42 @@
+export const mcqs = [
+  {
+    que: "Which device is required for the Internet connection?",
+    opt1: "Modem",
+    opt2: "Router",
+    opt3: "LAN Cable",
+    opt4: "Pen Drive",
+    ans: 1,
+  },
+  {
+    que: "Which continent has the highest number of countries?",
+    opt1: "Asia",
+    opt2: "Europe",
+    opt3: "North America",
+    opt4: "Africa",
+    ans: 4,
+  },
+  {
+    que: "Junk e-mail is also called?",
+    opt1: "Spam",
+    opt2: "Fake",
+    opt3: "Archived",
+    opt4: "Bin",
+    ans: 1,
+  },
+  {
+    que: "A computer cannot BOOT if it does not have the?",
+    opt1: "Application Software",
+    opt2: "Internet",
+    opt3: "Operating System",
+    opt4: "Mouse",
+    ans: 3,
+  },
+  {
+    que: "First page of Website is termed as?",
+    opt1: "Index Page",
+    opt2: "Homepage",
+    opt3: "Sitemap",
+    opt4: "Pen Drive",
+    ans: 2,
+  },
+];
